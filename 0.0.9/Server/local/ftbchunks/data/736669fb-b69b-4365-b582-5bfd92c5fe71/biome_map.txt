@@ -1,0 +1,13 @@
+#4F9 minecraft:dark_forest
+#008 minecraft:desert
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#3A2 byg:great_lakes
+#379 minecraft:mountains
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#169 minecraft:taiga
+#6BC byg:tropical_rainforest
+#30F byg:tropical_rainforest_hills
+#452 minecraft:wooded_hills
